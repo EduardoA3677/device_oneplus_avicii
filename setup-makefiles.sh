@@ -8,7 +8,7 @@
 
 set -e
 
-export DEVICE=avicii
+export DEVICE=billie
 export VENDOR=oneplus
 
 # Load extract_utils and do some sanity checks

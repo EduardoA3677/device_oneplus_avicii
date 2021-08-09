@@ -1,7 +1,5 @@
 # Display
 genfscon proc  /touchpanel u:object_r:proc_touchpanel:s0
-genfscon sysfs /devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/dim_alpha u:object_r:sysfs_fod:s0
-genfscon sysfs /devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/op_friginer_print_hbm u:object_r:sysfs_fod:s0
 
 # Power supply
 genfscon sysfs /devices/platform/soc/c440000.qcom,spmi/spmi-0/spmi0-02/c440000.qcom,spmi:qcom,pm8150b@2:qcom,qpnp-smb2/power_supply/dc u:object_r:sysfs_battery_supply:s0

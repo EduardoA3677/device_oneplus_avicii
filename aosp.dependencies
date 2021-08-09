@@ -1,44 +1,20 @@
 [
   {
-    "repository": "AospExtended-Devices/android_device_oneplus_common",
-    "target_path": "device/oneplus/common",
-    "branch" :"11.x",
-    "remote" :"github"
-  },
-  {
-    "repository": "AmolAmrit/Escrima_kernel_oneplus_sm7250",
-    "target_path": "kernel/oneplus/sm7250",
-    "branch": "eleven"
+    "repository": "Billaids/kernel_oneplus_sm6350",
+    "target_path": "kernel/oneplus/sm6350",
+    "branch": "ten"
     "remote": "github"
   },
   {
-    "repository": "AmolAmrit/vendor_oneplus_avicii",
-    "target_path": "vendor/oneplus/avicii",
+    "repository": "EduardoA3677/vendor_oneplus_billie",
+    "target_path": "vendor/oneplus/billie",
     "branch": "eleven",
-    "remote": "gitlab"
+    "remote": "github"
   },
   {
-    "repository": "AmolAmrit/vendor_oneplus_avicii-vendor",
-    "target_path": "vendor/oneplus/avicii-vendor",
-    "branch": "eleven",
-    "remote": "gitlab"
-  },
-  {
-    "repository": "AmolAmrit/vendor_oneplus-firmware",
-    "target_path": "vendor/oneplus/firmware",
-    "branch": "eleven",
-    "remote": "gitlab"
-  },
-  {
-    "remote": "private",
-    "repository": "AospExtended-Devices/platform_external_avb-keys",
-    "target_path": "external/avb-keys",
-    "branch": "master"
-  },
-  {
-    "repository": "AospExtended/platform_packages_resources_devicesettings",
-    "target_path": "platform/packages/resources",
-    "branch": "11.x",
+    "repository": "EduardoA3677/vendor_oneplus_billie-vendor",
+    "target_path": "vendor/oneplus/billie-vendor",
+    "branch": "main",
     "remote": "github"
   }
 ]
